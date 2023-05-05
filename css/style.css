@@ -1,0 +1,111 @@
+/* Fonts Style Area Start */
+@font-face {
+    font-family: biharfont;
+    src: url(../fonts/Alex.ttf) format('truetype');
+}
+@font-face {
+    font-family: h1font;
+    src: url(../fonts/KaushanScript.otf) format('opentype');
+}
+@font-face {
+    font-family: h2font;
+    src: url(../fonts/Chunk\ Five.otf) format('opentype');
+}
+@font-face {
+    font-family: h3font;
+    src: url(../fonts/Cantarell-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: h4font;
+    src: url(../fonts/Alex.ttf) format(truetype);
+}
+@font-face {
+    font-family: h5font;
+    src: url(../fonts/Aller_Bd.ttf) format(truetype);
+}
+@font-face {
+    font-family: h6font;
+    src: url(../fonts/Aller_BdIt.ttf) format(truetype);
+}
+@font-face {
+    font-family: h7font;
+    src: url(../fonts/Aller_It.ttf) format(truetype);
+}
+@font-face {
+    font-family: h8font;
+    src: url(../fonts/Aller_Lt.ttf) format(truetype);
+}
+@font-face {
+    font-family: h9font;
+    src: url(../fonts/Aller_LtIt.ttf) format(truetype);
+}
+@font-face {
+    font-family: h10font;
+    src: url(../fonts/Aller_Rg.ttf) format(truetype);
+}
+/* Fonts Style Area End */
+/* Design Area Start */
+img{
+    align-items: center;
+}
+p{
+    text-align: center;
+    font-family: h4font;
+    font-size: 25px;
+}
+h1{text-align: center;}
+article{
+    border-bottom: 1px solid black;
+}
+.header{
+    background-color: darkblue;
+    height: 150px;
+}
+.hd{
+    color: white;
+    text-align: center;
+    line-height: 150px;
+    font-size: 77px;
+    font-family: biharfont;
+}
+.h1{
+    font-family: h1font;
+    font-size: 40px;
+}
+.h2{
+    font-family: h2font;
+    font-size: 40px;
+}
+.h3{
+    font-family: h3font;
+    font-size: 40px;
+}
+.h4{
+    font-family: h4font;
+    font-size: 40px;
+}
+.h5{
+    font-family: h5font;
+    font-size: 40px;
+}
+.h6{
+    font-family: h6font;
+    font-size: 40px;
+}
+.h7{
+    font-family: h7font;
+    font-size: 40px;
+}
+.h8{
+    font-family: h8font;
+    font-size: 40px;
+}
+.h9{
+    font-family: h9font;
+    font-size: 40px;
+}
+.h10{
+    font-family: h10font;
+    font-size: 40px;
+}
+/* Design Area End */
